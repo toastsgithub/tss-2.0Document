@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "js-sequence-diagram"
+        "js-sequence-diagram-full"
     ]
-
 }
