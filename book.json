@@ -2,4 +2,5 @@
     "plugins": [
         "js-sequence-diagram"
     ]
+
 }
