@@ -4,7 +4,8 @@
     ],
     
     "pluginsConfig": {
-    "sequence-diagrams": {
-    "theme": "simple"
-  }
+      "sequence-diagrams": {
+        "theme": "simple"
+      }
+    }
 }
