@@ -1,5 +1,10 @@
 {
     "plugins": [
         "js-sequence-diagram-full@>=0.3.1"
-    ]
+    ],
+    
+    "pluginsConfig": {
+    "sequence-diagrams": {
+    "theme": "simple"
+  }
 }
